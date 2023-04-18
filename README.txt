@@ -3,3 +3,4 @@ Modificar la clase Viaje para que ahora los pasajeros sean un objeto que tenga l
 Volver a implementar las operaciones que permiten modificar el nombre, apellido y teléfono de un pasajero. Luego implementar la operación que agrega los pasajeros al viaje, solicitando por consola la información de los mismos. Se debe verificar que el pasajero no este cargado mas de una vez en el viaje. De la misma forma cargue la información del responsable del viaje.
 
 Trabajo Practico entregable n° 2 - Tecnicatura Universitaria en Desarrollo Web - UNCOMA Nqn-
+BUSTOS JOSE JULIAN - FAI 1807
